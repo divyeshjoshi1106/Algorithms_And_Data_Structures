@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PrefixFreeDecoder
+comment0.text=\r\n\ Decode\ and\ Encode\ a\ string\ using\ coding\ tree.\r\n\r\n\ @author\ (Divyesh\ Joshi)\r\n\ @version\ (10.01.2020)\r\n
+comment1.params=s
+comment1.target=void\ decode(java.lang.String)
+comment2.params=test
+comment2.target=java.lang.String\ encode(java.lang.String)
+comment3.params=node\ prefix
+comment3.target=void\ setPrefix(PrefixFreeDecoder.Node,\ java.lang.StringBuilder)
+numComments=4

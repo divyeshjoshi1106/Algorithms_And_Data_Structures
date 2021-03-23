@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InputCase
+comment0.text=\r\n\ Enum\ InputCase.\r\n\ \r\n\ <ol>\ <li>\ SORTED,\ i.e.\ input\ is\ an\ array\ of\ random\ numbers\ that\ have\ been\ pre-sorted\ in\ ascending\ order\r\n\ </li><li>\ REVERSE,\ i.e.\ input\ is\ an\ array\ of\ random\ numbers\ that\ have\ been\ pre-sorted\ in\ descending\ order\r\n\ </li><li>\ RANDOM,\ i.e.\ input\ is\ an\ array\ of\ random\ numbers\ as\ provided\ by\ the\ random-number\ generator\r\n\ </li><li>\ and\ AVERAGE,\ i.e.\ the\ average\ for\ a\ sample\ of\ M\ RANDOM\ input\ cases\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ taken\ subsequently\ with\ a\ starting\ seed\ value.\r\n\ </li></ol>\r\n\ \r\n\ @author\ Wolfgang\ Renz,\ HAW\ Hamburg\ \r\n\ @version\ Oct.\ 2020\r\n
+comment1.params=name
+comment1.target=InputCase(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

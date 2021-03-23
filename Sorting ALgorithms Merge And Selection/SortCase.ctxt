@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SortCase
+comment0.text=\r\n\ This\ class\ is\ for\ demonstration\ purposes\ only\!\r\n\r\n\ @author\ Wolfgang\ Renz,\ HAW\ Hamburg\ \r\n\ @version\ Nov.\ 14,\ 2020\r\n
+comment1.params=inputCase\ size
+comment1.target=SortCase(InputCase,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SortCase\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ sortAndCount()
+numComments=4

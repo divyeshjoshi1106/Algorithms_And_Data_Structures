@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=UseCase
+comment0.text=\r\n\ \ This\ class\ UseCase\ is\ for\ demonstration\ only\!\r\n\ \ It\ shows\ how\ to\ use\ enum\ in\ switch/case,\ loop\ over\ it's\ values\ and\ it's\ name\ printing.\r\n\ \r\n\ @author\ Wolfgang\ Renz,\ Divyesh\ Joshi\r\n\ @version\ Nov.\ 14,\ 2020\r\n
+comment1.params=
+comment1.target=void\ sortAndCount()
+comment10.params=arg
+comment10.target=void\ main(java.lang.String[])
+comment2.params=inputCase\ size
+comment2.target=UseCase(InputCase,\ int)
+comment3.params=
+comment3.target=void\ initAscending()
+comment4.params=
+comment4.target=void\ initDescending()
+comment5.params=
+comment5.target=void\ initRandom()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=format
+comment7.target=java.lang.String\ getResults(java.lang.String)
+comment8.params=format
+comment8.target=void\ writeResults(java.lang.String)
+comment9.params=sortCase
+comment9.target=void\ makeTable(java.lang.String)
+numComments=11

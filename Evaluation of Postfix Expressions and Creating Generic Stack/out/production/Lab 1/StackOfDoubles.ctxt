@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StackOfDoubles
+comment0.text=\r\n\ Array\ implementation\ of\ a\ stack.\r\n\r\n\ @author\ (Divyesh\ Joshi)\r\n\ @version\ (Version\ 1)\r\n
+comment1.params=capacity
+comment1.target=void\ resize(int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=item
+comment3.target=void\ push(java.lang.Double)
+comment4.params=
+comment4.target=java.lang.Double\ pop()
+numComments=5

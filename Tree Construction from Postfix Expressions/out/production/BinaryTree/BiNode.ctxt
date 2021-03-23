@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BiNode
+comment0.text=\r\n\ Class\ BiNode,\ Nodes\ of\ a\ binary\ tree.\r\n\ This\ class\ is\ an\ open\ Struct\ with\ public\ elements\r\n\ Thus,\ there\ are\ constructors\ only,\ no\ methods\r\n\ \r\n\ @author\ Wolfgang\ Renz,\ HAW\ Hamburg\ \r\n\ @version\ Oct.\ 2016\r\n
+comment1.params=item
+comment1.target=BiNode(java.lang.String)
+comment2.params=item\ left\ right
+comment2.target=BiNode(java.lang.String,\ BiNode,\ BiNode)
+numComments=3

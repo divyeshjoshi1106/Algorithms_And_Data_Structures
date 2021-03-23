@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TreeCase
+comment0.text=\r\n\ Enumeration\ class\ TreeCase\ -\ write\ a\ description\ of\ the\ enum\ class\ here\r\n\r\n\ @author\ (Divyesh\ Joshi)\r\n\ @version\ (14.\ Dec.\ 2020)\r\n
+comment1.params=name
+comment1.target=TreeCase(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

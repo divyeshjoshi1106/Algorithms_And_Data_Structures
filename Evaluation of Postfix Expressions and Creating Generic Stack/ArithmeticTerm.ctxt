@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ArithmeticTerm
+comment0.text=\r\n\ A\ class\ whic\ stores\ an\ expression\ and\ evalutes\ a\ postfix\ expression.\r\n\r\n\ @author\ (Divyesh\ Joshi)\r\n\ @version\ (a\ version\ 1)\r\n
+comment1.params=exp
+comment1.target=ArithmeticTerm(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArithmeticTerm\r\n
+comment2.params=exp
+comment2.target=void\ setExpression(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ reverse()
+comment5.params=
+comment5.target=double\ evaluate()
+comment6.params=
+comment6.target=java.lang.String\ convert()
+comment6.text=\r\n\ Converts\ a\ FPAE\ into\ postfix\ notation.\r\n\ @return\ The\ FPAE\ in\ postfix\ notation.\r\n
+numComments=7

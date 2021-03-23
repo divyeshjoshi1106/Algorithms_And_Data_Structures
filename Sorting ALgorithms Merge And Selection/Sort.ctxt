@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Sort
+comment0.text=\r\n\ Abstract\ class\ Sort\ is\ responsible\ for\ operations\ and\ their\ counting.\r\n\r\n\ @author\ Wolfgang\ Renz,\ Divyesh\ Joshi\r\n\ @version\ Nov.\ 22,\ 2020\r\n
+comment1.params=
+comment1.target=void\ reset()
+comment2.params=dest\ i\ source\ j
+comment2.target=void\ copy(java.lang.Comparable[],\ int,\ java.lang.Comparable[],\ int)
+comment3.params=a\ i\ j
+comment3.target=void\ exch(java.lang.Comparable[],\ int,\ int)
+comment4.params=v\ w
+comment4.target=boolean\ less(java.lang.Comparable,\ java.lang.Comparable)
+comment5.params=a\ left\ right
+comment5.target=boolean\ isSorted(java.lang.Comparable[],\ int,\ int)
+comment6.params=a\ left\ border\ right
+comment6.target=boolean\ isPartitioned(java.lang.Comparable[],\ int,\ int,\ int)
+comment7.params=
+comment7.target=int\ getComp()
+comment8.params=
+comment8.target=int\ getCopy()
+numComments=9

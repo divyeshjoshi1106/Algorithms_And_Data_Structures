@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\r\n\ Tree\:\ binary\ tree\ traversals\r\n\ PREORDER,\ INORDER,\ POSTORDER\ implemented\r\n\ ToDo\:\ LEVELORDER\r\n\ \r\n\ @author\ Wolfgang\ Renz,\ HAW\ Hamburg\ \r\n\ @version\ Oct.\ 2016\r\n
+comment1.params=root
+comment1.target=Tree(Tree.BiNode)
+comment10.params=node
+comment10.target=void\ traversePOST(Tree.BiNode)
+comment11.params=a
+comment11.target=void\ main(java.lang.String[])
+comment2.params=postfix
+comment2.target=Tree(java.lang.String)
+comment3.params=c
+comment3.target=boolean\ isOperator(java.lang.String)
+comment4.params=postfix
+comment4.target=Tree.BiNode\ construct(java.lang.String)
+comment5.params=how
+comment5.target=void\ traverse(Tree.ORDER)
+comment6.params=plus
+comment6.target=void\ indentation(boolean)
+comment7.params=node
+comment7.target=void\ visit(Tree.BiNode)
+comment8.params=node
+comment8.target=void\ traversePRE(Tree.BiNode)
+comment9.params=node
+comment9.target=void\ traverseIN(Tree.BiNode)
+numComments=12

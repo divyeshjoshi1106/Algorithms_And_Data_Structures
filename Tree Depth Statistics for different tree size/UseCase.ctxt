@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=UseCase
+comment0.text=\r\n\ \ This\ class\ UseCase\ is\ for\ demonstration\ only\!\ \r\n\ @author\ Wolfgang\ Renz,\ Divyesh\ Joshi\r\n\ @version\ Dec.\ 15,\ 2020\r\n
+comment1.params=size\ tree
+comment1.target=UseCase(int,\ TreeCase)
+comment2.params=
+comment2.target=void\ initRandom()
+comment3.params=
+comment3.target=int\ getMax()
+comment4.params=
+comment4.target=double\ getMean()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ makeTable()
+comment7.params=arg
+comment7.target=void\ main(java.lang.String[])
+numComments=8
